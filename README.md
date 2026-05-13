@@ -22,6 +22,11 @@ https://github.com/akshaya79896-debug/ALFIDO-TECH-TASK2.git
 
 ---
 
+## 📄 Documentation
+[View Documentation](DOCUMENTATION%20TASK2.pdf)
+
+---
+
 ## ✨ Features
 
 - ✅ 5 Web Development multiple-choice questions
