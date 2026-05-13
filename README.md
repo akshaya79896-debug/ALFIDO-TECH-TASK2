@@ -24,8 +24,8 @@ https://github.com/akshaya79896-debug/ALFIDO-TECH-TASK2.git
 
 ## ✨ Features
 
-- ✅ 10 Web Development multiple-choice questions
-- ✅ Displays question counter (1/10, 2/10, etc.)
+- ✅ 5 Web Development multiple-choice questions
+- ✅ Displays question counter (1/5, 2/5, etc.)
 - ✅ Instant answer validation
 - ✅ Highlights correct and incorrect answers
 - ✅ Automatically reveals the correct answer
